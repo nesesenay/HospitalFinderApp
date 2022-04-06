@@ -3,7 +3,7 @@
 ## What is the goal of the application?
 
 * People can mark the locations of hospitals on the map.
-* The user can write the name of the hospital and, if desired, a comment about the hospital.
+* The user can write the name of the hospital and the comment about the hospital.
 * After clicking the save button, the location of the hospital is saved on the list page.
 * Core data was used to save the data.
 
